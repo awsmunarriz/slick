@@ -1,0 +1,52 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  padding-top: 80px;
+  margin-bottom: 60px;
+}
+
+a {
+  text-decoration: none;
+  color: #0d6efd;
+}
+
+#content {
+  margin-bottom: 25px;
+}
+
+.slider {
+  width: 80%;
+  margin: 0px auto;
+}
+
+.slick-slide {
+  margin: 0px 20px;
+}
+
+.slick-slide img {
+  width: 100%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+}
+
+.text-slider,
+.card-carousel,
+.carousel {
+  margin: 30px auto;
+  width: 80%;
+}
+
+.text-slider div {
+  min-height: 300px;
+  width: 100%;
+  line-height: 300px;
+  font-size: 48px;
+  text-align: center;
+  background-color: salmon;
+}
