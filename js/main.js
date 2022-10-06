@@ -16,6 +16,7 @@ for (let i = 0; i < data.length; i++) {
     <h6 class="card-text">Edad: ${data[i].edad_aprox}</h6>
     <h6 class="card-text">Raza: ${data[i].raza}</h6>
     <h6 class="card-text">Tamaño: ${data[i].tamaño}</h6>
+    <a href="#" class="btn btn-primary">Adoptar</a>
   </div>
 </div>
        `;
