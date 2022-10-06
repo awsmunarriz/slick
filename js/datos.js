@@ -1,12 +1,12 @@
 var data = [
   {
     id: 1,
-    nombre: "China",
+    nombre: "Chino",
     edad_aprox: "Casi dos años",
     tamaño: "mediano",
     tipo: "Gato",
     raza: "Cruza",
-    genero: "H",
+    genero: "M",
     vacunas: "Todas",
     castrado: false,
     visita_vete: "02-18-2023",
