@@ -13,8 +13,9 @@ for (let i = 0; i < data.length; i++) {
   <img src="${data[i].image}" alt="foto">
   <div class="card-body">
   <h4>Nombre: ${data[i].nombre}</h4>
-    <p class="card-text">Raza: ${data[i].raza}</p>
-    <a href="#" class="btn btn-primary">Ver mas</a>
+    <h6 class="card-text">Edad: ${data[i].edad_aprox}</h6>
+    <h6 class="card-text">Raza: ${data[i].raza}</h6>
+    <h6 class="card-text">Tamaño: ${data[i].tamaño}</h6>
   </div>
 </div>
        `;
